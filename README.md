@@ -52,4 +52,4 @@ format is constructor() ERC721("ADD Name Here", "Add Symbol Here") {
 
 You can Mint admin NFTs by calling mintAdminNFTSale() function
 
-FOR REFFERENCE DEPLOYED CONTRACT: https://testnet.bscscan.com/address/0xc5d802253ffb291199365d99dcec4f8c7a17d331
+FOR REFFERENCE DEPLOYED CONTRACT: https://testnet.bscscan.com/address/0xc7d94c26b724f4ebf29d9232e12a55be32e0e799#code
